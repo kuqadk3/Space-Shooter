@@ -135,7 +135,10 @@ Game bắn súng ngoài không gian, bạn sẽ điều khiển máy bay và b�
     
    Đào Tuấn Linh - Student at [UET](www.uet.vnu.edu.vn) - [VNU](www.vnu.edu.vn)
 
-
+# Special Thanks :
+   
+   Thanks to all my friends who help me or give me advice to finish this awesome game
+   
 # Build With :
   - [Game Maker Studio](http://www.yoyogames.com/gamemaker) - Best 2D Game Studio
    
