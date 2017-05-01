@@ -96,6 +96,7 @@ Game bắn súng ngoài không gian, bạn sẽ điều khiển máy bay và b�
     
     </Details>
     
+- Hiệu ứng cháy nổ, rung màn hình, âm thanh độc đáo,etc... chờ các bạn khám phá
     
 # Cài đặt và các chú ý khác :
 
