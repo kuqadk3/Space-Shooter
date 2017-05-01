@@ -104,7 +104,8 @@ Game bắn súng ngoài không gian, bạn sẽ điều khiển máy bay và b�
 
     <Details>
 
-    - Các bạn có thể tài bộ cài ở đây : [Installer](https://github.com/kuqadk3/Space-           Shooter/blob/master/Installation/Space_Shooter_Installer.exe)
+
+    - Các bạn có thể tài bộ cài ở đây : [Installer](https://github.com/kuqadk3/Space-Shooter/blob/master/Installation/Space_Shooter_Installer.exe)
   
      - Bản stand alone,không cần cài đặt : [Stand Alone](https://github.com/kuqadk3/Space-Shooter/blob/master/Installation/Space_Shooter_Installer.exe)
  
