@@ -143,7 +143,7 @@ Game bắn súng ngoài không gian, bạn sẽ điều khiển máy bay và b�
 
 # Special Thanks 
    
-   Thanks to all my friends who help me or give me advice to finish this awesome game
+   Thanks to all my friends,teacher,player who help me or give me advice to finish this awesome game
    
 # Build With 
   - [Game Maker Studio](http://www.yoyogames.com/gamemaker) - Best 2D Game Studio
