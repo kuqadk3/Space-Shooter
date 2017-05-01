@@ -65,9 +65,9 @@ Game bắn súng ngoài không gian, bạn sẽ điều khiển máy bay và b�
 
     <Details>
     
-![alt tag](https://github.com/kuqadk3/Space-Shooter/blob/master/images/bullet_level.PNG)
+    ![alt tag](https://github.com/kuqadk3/Space-Shooter/blob/master/images/bullet_level.PNG)
 
-![alt tag](https://media.giphy.com/media/sq95LdI5Me3mM/giphy.gif)
+    ![alt tag](https://media.giphy.com/media/sq95LdI5Me3mM/giphy.gif)
 
     </Details>
 
