@@ -3,7 +3,7 @@
 Game bắn súng ngoài không gian, bạn sẽ điều khiển máy bay và bắn hạ máy bay địch và Boss ở mỗi màn chơi
 
 # Tính năng 
-
+<Details> 
 - Màn hình loading : 
 
 ![alt tag](https://github.com/kuqadk3/Space-Shooter/blob/master/images/space_shooter_loading.PNG)
@@ -48,3 +48,9 @@ Game bắn súng ngoài không gian, bạn sẽ điều khiển máy bay và b�
 
 ![alt tag](https://github.com/kuqadk3/Space-Shooter/blob/master/images/monster.PNG)
 
+<Details>
+
+# Notes For Gamer
+
+
+# Notes For Developer
