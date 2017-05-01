@@ -133,7 +133,7 @@ Game bắn súng ngoài không gian, bạn sẽ điều khiển máy bay và b�
 
 # Author :
     
-    Đào Tuấn Linh - Student at UET - VNU
+    Đào Tuấn Linh - Student at [UET](www.uet.vnu.edu.vn) - [VNU](www.vnu.edu.vn)
 
 
 # Build With :
