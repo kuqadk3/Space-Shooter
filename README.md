@@ -48,7 +48,7 @@ Game bắn súng ngoài không gian, bạn sẽ điều khiển máy bay và b�
 
 ![alt tag](https://github.com/kuqadk3/Space-Shooter/blob/master/images/monster.PNG)
 
-<Details>
+</Details>
 
 # Notes For Gamer
 
