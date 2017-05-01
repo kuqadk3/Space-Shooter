@@ -131,3 +131,16 @@ Game bắn súng ngoài không gian, bạn sẽ điều khiển máy bay và b�
     
 
 # Notes For Developer
+
+
+# Build With :
+        
+        <Details>
+        
+        - [Game Maker Studio](http://www.yoyogames.com/gamemaker) - Best 2D Game Studio
+   
+        - [Adobe Photoshop](http://www.adobe.com) - Great application for graphic design
+    
+        - [Spriter](https://brashmonkey.com) - Excellent software for making animation
+        
+        </Details>
