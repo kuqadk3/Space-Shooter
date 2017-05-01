@@ -139,5 +139,8 @@ Game bắn súng ngoài không gian, bạn sẽ điều khiển máy bay và b�
   - [Adobe Photoshop](http://www.adobe.com) - Great application for graphic design
     
   - [Spriter](https://brashmonkey.com) - Excellent software for making animation
-        
-        
+   
+# Licensed :
+
+   This project is licensed under the terms of the MIT license . For futher, please read [here](https://opensource.org/licenses/MIT)
+    
