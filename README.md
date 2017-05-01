@@ -98,7 +98,7 @@ Game bắn súng ngoài không gian, bạn sẽ điều khiển máy bay và b�
     
 - Hiệu ứng cháy nổ, rung màn hình, âm thanh độc đáo,etc... chờ các bạn khám phá
     
-# Cài đặt và các chú ý khác :
+# Cài đặt và các chú ý khác 
 
 - Cài đặt :
 
@@ -130,28 +130,28 @@ Game bắn súng ngoài không gian, bạn sẽ điều khiển máy bay và b�
     
     </Details>
     
-# Developer :
+# Developer 
 
    - You can download source code from [Here](https://github.com/kuqadk3/Space-Shooter/tree/master/Source%20Code)
     
    - You can download packed project file from [Here](https://github.com/kuqadk3/Space-Shooter/blob/master/Space_Shooter.gmz) (Recommend)
    
-# Author :
+# Author 
     
    Đào Tuấn Linh - Student at [UET](http://www.uet.vnu.edu.vn) - [VNU](http://www.vnu.edu.vn)
 
-# Special Thanks :
+# Special Thanks 
    
    Thanks to all my friends who help me or give me advice to finish this awesome game
    
-# Build With :
+# Build With 
   - [Game Maker Studio](http://www.yoyogames.com/gamemaker) - Best 2D Game Studio
    
   - [Adobe Photoshop](http://www.adobe.com) - Great application for graphic design
     
   - [Spriter](https://brashmonkey.com) - Excellent software for making animation
    
-# License :
+# License 
 
    This project is licensed under the terms of the MIT license . For futher, please read [here](https://opensource.org/licenses/MIT)
     
