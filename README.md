@@ -130,7 +130,9 @@ Game bắn súng ngoài không gian, bạn sẽ điều khiển máy bay và b�
     </Details>
     
 
-# Notes For Developer
+# Author :
+    
+    Đào Tuấn Linh - Student at UET - VNU
 
 
 # Build With :
@@ -140,7 +142,7 @@ Game bắn súng ngoài không gian, bạn sẽ điều khiển máy bay và b�
     
   - [Spriter](https://brashmonkey.com) - Excellent software for making animation
    
-# Licensed :
+# License :
 
    This project is licensed under the terms of the MIT license . For futher, please read [here](https://opensource.org/licenses/MIT)
     
