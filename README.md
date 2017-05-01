@@ -130,7 +130,12 @@ Game bắn súng ngoài không gian, bạn sẽ điều khiển máy bay và b�
     
     </Details>
     
+# Developer :
 
+   - You can download source code from [Here](https://github.com/kuqadk3/Space-Shooter/tree/master/Source%20Code)
+    
+   - You can download packed project file from [Here](https://github.com/kuqadk3/Space-Shooter/blob/master/Space_Shooter.gmz) (Recommend)
+   
 # Author :
     
    Đào Tuấn Linh - Student at [UET](http://www.uet.vnu.edu.vn) - [VNU](http://www.vnu.edu.vn)
