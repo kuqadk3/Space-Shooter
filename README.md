@@ -80,11 +80,11 @@ Game bắn súng ngoài không gian, bạn sẽ điều khiển máy bay và b�
     </Details>
 - Hệ thống quái vật đa dạng,với các cách tấn công khác nhau :
 
- <Details>
+     <Details>
  
-![alt tag](https://github.com/kuqadk3/Space-Shooter/blob/master/images/monster.PNG)
+    ![alt tag](https://github.com/kuqadk3/Space-Shooter/blob/master/images/monster.PNG)
 
-</Details>
+    </Details>
 
 # Cài đặt và các chú ý khác :
 
