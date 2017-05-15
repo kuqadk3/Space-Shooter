@@ -100,9 +100,9 @@ Game bắn súng ngoài không gian, bạn sẽ điều khiển máy bay và b�
 
     <Details>
         
-        ![alt tag](https://github.com/kuqadk3/Space-Shooter/blob/master/images/tenlua.PNG)
+   ![alt tag](https://github.com/kuqadk3/Space-Shooter/blob/master/images/tenlua.PNG)
         
-        ![alt tag](https://github.com/kuqadk3/Space-Shooter/blob/master/images/maybayno.PNG)
+   ![alt tag](https://github.com/kuqadk3/Space-Shooter/blob/master/images/maybayno.PNG)
          
     </Details>
 
@@ -110,7 +110,7 @@ Game bắn súng ngoài không gian, bạn sẽ điều khiển máy bay và b�
 
     <Details>
         
-        ![alt tag](https://github.com/kuqadk3/Space-Shooter/blob/master/images/rungmanhinh.PNG)
+    ![alt tag](https://github.com/kuqadk3/Space-Shooter/blob/master/images/rungmanhinh.PNG)
         
     </Details>
 
@@ -118,7 +118,7 @@ Game bắn súng ngoài không gian, bạn sẽ điều khiển máy bay và b�
 
     <Details>
     
-        ![alt tag](https://github.com/kuqadk3/Space-Shooter/blob/master/images/red_flash.PNG)
+    ![alt tag](https://github.com/kuqadk3/Space-Shooter/blob/master/images/red_flash.PNG)
       
     </Details>
     
