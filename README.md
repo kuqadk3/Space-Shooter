@@ -1,6 +1,6 @@
 # Space-Shooter
 
-Game bắn súng ngoài không gian, bạn sẽ điều khiển máy bay và bắn hạ máy bay địch và Boss ở mỗi màn chơi
+Game bắn súng ngoài không gian, bạn sẽ điều khiển máy bay và bắn hạ máy bay địch và Boss ở mỗi màn chơi để có thể mở ra màn chơi tiếp theo cùng với nhiều vật phẩm, item giúp bạn hoàn thành nhiệm vụ
 
 
 # Tính năng 
