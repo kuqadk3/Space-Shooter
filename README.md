@@ -143,6 +143,8 @@ Game bắn súng ngoài không gian, bạn sẽ điều khiển máy bay và b�
     
     - Chuột trái : Bắn đạn
     
+    - Ấn phím A để tự động bắn
+    
     - Ấn và giữ phím Space để bắn đạn Laser
     
     - Ấn phím M để bắn tên lửa
