@@ -96,7 +96,31 @@ Game bắn súng ngoài không gian, bạn sẽ điều khiển máy bay và b�
     
     </Details>
     
-- Hiệu ứng cháy nổ, rung màn hình, âm thanh độc đáo,etc... chờ các bạn khám phá
+- Hiệu ứng hạt(Particle System) để tạo khói,lửa :
+
+    <Details>
+        
+        ![alt tag](https://github.com/kuqadk3/Space-Shooter/blob/master/images/tenlua.PNG)
+        
+        ![alt tag](https://github.com/kuqadk3/Space-Shooter/blob/master/images/maybayno.PNG)
+         
+    </Details>
+
+- Hiệu ứng rung màn hình (Screenshake) :
+
+    <Details>
+        
+        ![alt tag](https://github.com/kuqadk3/Space-Shooter/blob/master/images/rungmanhinh.PNG)
+        
+    </Details>
+
+- Hiệu ứng chớp đỏ (red flash) :
+
+    <Details>
+    
+        ![alt tag](https://github.com/kuqadk3/Space-Shooter/blob/master/images/red_flash.PNG)
+      
+    </Details>
     
 # Cài đặt và các chú ý khác 
 
@@ -151,6 +175,8 @@ Game bắn súng ngoài không gian, bạn sẽ điều khiển máy bay và b�
   - [Adobe Photoshop](http://www.adobe.com) - Great application for graphic design
     
   - [Spriter](https://brashmonkey.com) - Excellent software for making animation
+  
+  - [Love for Hani](https://www.instagram.com/ahnhani_92) - My love,my idol <3
    
 # License 
 
