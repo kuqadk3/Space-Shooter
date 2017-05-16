@@ -117,9 +117,7 @@ Game bắn súng ngoài không gian, bạn sẽ điều khiển máy bay và b�
 - Hiệu ứng chớp đỏ (red flash) :
 
     <Details>
-    
-    ![alt tag](https://github.com/kuqadk3/Space-Shooter/blob/master/images/red_flash.PNG)
-      
+          
     </Details>
     
 # Cài đặt và các chú ý khác 
